@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
 body {
-    font-family:Arial !important;
+  font-family: Inter, Arial, sans-serif;
 }
