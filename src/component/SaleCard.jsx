@@ -6,7 +6,7 @@ import img4 from "./Rectangle (5).png";
 
 function SaleCard () {
     return (
-        <div className = "px-[140px] py-[80px]"> 
+        <div className = "px-[140px] py-[80px]" >
             <div className = "flex justify-between items-center">
                 <h1 className = "text-6xl">NEW</h1>
                 <h1 className = "text-4xl flex items-center gap-3">BROWSE <FiArrowUpRight /></h1>
