@@ -7,7 +7,7 @@ function About () {
             <div className = "flex gap-20 items-center">
                 <img src={img1}  className="max-w-[1300px] h-[1600px] object-cover rounded-xl"/>
             </div>
-            <div className = "px-[160px] text-[34px] py-[30px]leading-[36px]">
+            <div className = "px-[160px] text-[34px] py-[30px] leading-[36px]">
                 <p>A great business, in our opinion, is built
                     around excellent people. Our qualified designers
                     are committed to realizing your particular vision
