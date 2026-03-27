@@ -7,6 +7,8 @@ import Testimonial from "./component/Testimonial";
 import Features from "./component/Features";
 import FAQ from "./component/FAQ";
 import Blog from "./component/Blog";
+import Follow from "./component/Follow";
+import Footer from "./component/Footer";
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
       <Features />
       <FAQ />
       <Blog />
+      <Follow />
+      <Footer />
     </div>
   );
 }

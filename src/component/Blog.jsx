@@ -11,10 +11,10 @@ function Blog () {
                 <h1 className="text-[60px]">BLOG</h1>
                 <h1 className="text-[60px] flex items-center justify-between" >READ<FiArrowUpRight /> </h1>    
             </div>
-            <div className="border-b-4 border-black px-[40px] py-[90px] max-w-[2800px]  mx-auto" ></div>
+            <div className="border-b-4 border-black px-[40px] pb-[50px] max-w-[2800px]  mx-[5px]" ></div>
 
-                <div className = "flex justify-between items-center ">
-                    <img src={img1} className="py-[80px] w-[50%] rounded-xl"/>
+                <div className = "flex justify-between items-center">
+                    <img src={img1} className="py-[80px] pt-[120px] w-[50%] rounded-xl"/>
                     <div className="">
                         <h1 className="font-bold text-[32px]">THE ULTIMATE SOFA BUYING GUDE</h1>
                             <p className="text-[32px] max-w-[1200px] pt-[30px] pb-[110px]">
@@ -43,7 +43,7 @@ Your level of comfort when getting into and out of bed can be greatly influenced
                             <p className="text-[32px] max-w-[1200px] pt-[30px] pb-[110px]">
 People do a lot of research to make sure they purchase the ideal television. And like the rest of us, you want to keep that gorgeous flat screen in your living room or bedroom on a table or stand.                            </p>
                             <h1 className="flex items-center justify-end text-[30px] gap-2 py-[20px]">ABOUT <FiArrowUpRight /></h1>
-                        <div className="border-b-4 border-black px-[40px]  max-w-[2800px]  mx-auto" ></div>
+                        <div className="border-b-4 border-black px-[40px]  max-w-[2800px]  mx-[5px]" ></div>
                     </div>
                 </div>
         </div>   

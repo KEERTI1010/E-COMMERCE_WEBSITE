@@ -18,7 +18,7 @@ function About () {
                     <h1 className = "flex justify-between items-center gap-2 text-3xl">ABOUT <FiArrowUpRight /></h1>
                     <h1 className = "flex justify-between items-center gap-2 text-3xl">MANUFACTURING <FiArrowUpRight /></h1>
                 </div>
-                <div className="border-b-4 border-black px-[40px] py-[20px] max-w-[2800px]  mx-auto" ></div>
+                <div className="border-b-4 border-black px-[40px] py-[20px] max-w-[2800px]  mx-[5px]" ></div>
             </div>
         </div>
     
